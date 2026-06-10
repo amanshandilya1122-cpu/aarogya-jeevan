@@ -1,0 +1,8 @@
+{
+  "name": "Aarogya Jeevan Hospital",
+  "description": "Aarogya Jeevan Multi Speciality Hospital Pvt. Ltd. is a premier luxury healthcare facility in Begusarai, Bihar offering high-end advanced healthcare, laparoscopic surgery, general surgery, pediatric care, and 24/7 emergency support.",
+  "requestFramePermissions": [
+    "geolocation"
+  ],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
